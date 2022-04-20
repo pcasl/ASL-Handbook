@@ -15,7 +15,7 @@ If there are any questions, please contract me.
 #### 2.1.3 Pseudo Continous ASL
 ##### 2.1.3.1 Balanced PCASL
 ##### 2.1.3.2 UnBalanced PCASL
-##### 2.1.3.3 Hadamard Encoding
+##### 2.1.3.3 [Hadamard Encoding](hadamard.md)
 #### 2.1.4 Other Labeling
 ### 2.2 Acqusitions
 #### 2.2.1 Fast Spin Echo
