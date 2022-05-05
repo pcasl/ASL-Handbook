@@ -29,4 +29,6 @@ If there are any questions, please contract me.
 ### 3.1 ASL Model
 ### 3.2 Partial Volume Correction
 
-## 4 Applications
+## 4 Validation
+### 4.1 [PET](pet.md)
+## 5 Applications
