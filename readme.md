@@ -25,6 +25,8 @@ If there are any questions, please contract me.
 #### 2.2.5 SSFP
 ### 2.3 Supporting RF
 
+2.3.1 [Background Suppression](bgs.md)
+
 ## 3 Image Processing
 ### 3.1 ASL Model
 ### 3.2 Partial Volume Correction
