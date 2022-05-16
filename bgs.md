@@ -1,6 +1,6 @@
 # Background Suppression
 
-In the early work of MR angiography, researchers used a similar idea to subtract a pair of images with and without labeled blood. When the background signal is not stable, the subtraction results in non-blood signal. Therefore, multiple inversion RFs were used to reduce the static tissue signal. 
+In the early work of MR angiography, blood and vessel images were acheived by subtracting a pair of images with and without labeled blood. When the background signal is not stable, the subtraction results in non-blood signal. Therefore, multiple inversion RFs were used to reduce the static tissue signal. 
 
 One of the earliest work was presented by Nishmura et al. [^1]
 
