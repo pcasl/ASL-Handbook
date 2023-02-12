@@ -32,9 +32,9 @@ decoded ASL:
  [0 0 0 0 8 0 0]
  [0 0 0 0 0 8 0]
  [0 0 0 0 0 0 8]]
- ```
- 
- The bolus duration can be non-equal [^2] as presented by Wells et al [^2] and van Osch et al's work [^3]. 
+```
+
+ The bolus duration can be non-equal [^2] as presented by Wells et al [^2] and van Osch et al's work [^3]. Additional work has been done and the Hadmard encoding scheme was extended to 'time encoded' scheme. 
 
 [^1]: M. Guenther. Highly efficient accelerated acquisition of perfusion inflow series by Cycled Arterial Spin Labeling. ISMRM 2007;0380
 [^2]: Wells JA, Lythgoe MF, Gadian DG, Ordidge RJ, Thomas DL. In vivo Hadamard encoded continuous arterial spin labeling (H-CASL). Magn. Reson. Med. 2010;63:1111–1118 doi: 10.1002/mrm.22266.
