@@ -1,5 +1,7 @@
 # Hadamard Encoding
 
+In general, hadamard encodes were developed to correct errors in information transfer, named after Jacques Hadamard. It has also been used in the MRI field for information encoding for more than 3 decades. The original applications and implements other than ASL are reviewed [here](hadamard_history.md).
+
 ASL with multiple delays can fully describe the dynamic perfusion signal by quantifing arterial transit time, which results in more accurate CBF measurement. However, multi-delay measurement is time consuming. 
 
 Guenther introduced the Hadamard encoding ASL on ISMRM 2007 [^1]. The idea is to devide a long labeling blood bolus into a few small sub-boli, and each sub-boli can have different PLDs. In the original ISMRM abstract and Wells et al.'s work [^2], a natural-order Hadamard encoding matrix with an order of 8 was used. While the Hadmard encoding matrix was mirrored and the first colume was removed to acheive 'ASL condition'. This design is detailed as following:

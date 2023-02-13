@@ -6,7 +6,7 @@ If there are any questions, please contract me.
 
 # Contents
 
-## 1 History
+## 1 [History](history.md)
 
 ## 2 Imaging Sequence
 ### 2.1 Blood Labeling
