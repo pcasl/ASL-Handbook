@@ -7,7 +7,7 @@ If there are any questions, please contract me.
 # Contents
 
 ## 1 [History](history.md)
-
+## 2 ASL Singal Model
 ## 2 Imaging Sequence
 ### 2.1 Blood Labeling
 #### 2.1.1 Continous ASL
